@@ -1,48 +1,48 @@
 <div align="center">
- <h1> <img src="/logo.png" width="80px"><br/>Paletto : Color Palette & Design Tool</h1>
+ <h1> <img src="./public/logo.png" width="80px"><br/>Paletto : Color Palette & Design Tool</h1>
  <a href="https://www.buymeacoffee.com/nikhilsundriya" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fpaletto.itsvg.in/"/> 
  <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=normal"/>
- <img src="https://img.shields.io/github/languages/code-size/nikhilsundriya/paletto?logo=github&style=normal"/>
+ <img src="https://img.shields.io/github/languages/code-size/nikhilsundriya/Paletto?logo=github&style=normal"/>
 </div>
 <br/>
 
-![Paletto Preview](/assets/1.png)
+![Paletto Preview](./public/assets/1.png)
 
 
 # Features
 Design heavily relies on color, and selecting an ideal color palette can be overwhelming. Fortunately, Paletto provides a set of fantastic tools that let you unleash your creativity and bring your designs to life. Paletto's distinguishing features include:
 
-![Trending Palettes](/assets/2.png)
+![Trending Palettes](./public/assets/2.png)
 
 ### ⭐ Trending Color Palettes:
 Paletto's Trending Color Palettes feature keeps you up-to-date with the latest color trends. It helps you choose the most popular colors for your project, whether you're designing a website, marketing campaign, or product. Additionally, you can tailor the palettes to your preferences using Paletto's user-friendly interface.
 
-![Awesome Gradients](/assets/3.png)
+![Awesome Gradients](./public/assets/3.png)
 
 ### ⭐ Awesome Gradients:
 With Paletto's Awesome Gradients feature, you can effortlessly produce countless gradients. Gradients enhance the depth and texture of designs, making them more visually appealing. You can experiment with multiple color combinations and develop gradients that match your design requirements.
 
-![Tailwind Palette Generator](/assets/5.png)
+![Tailwind Palette Generator](./public/assets/5.png)
 
 ### ⭐Tailwind Palette Generator:
 Paletto's Tailwind Palette Generator feature is custom-made for Tailwind CSS developers. By clicking once, you can create color palettes for your next Tailwind-powered project. This feature saves you time and effort when choosing colors that align with Tailwind's design system.
 
-![Palette from Image AI](/assets/6.png)
+![Palette from Image AI](./public/assets/6.png)
 
 ### ⭐ Palette from Image [AI]:
-Paletto's Palette from Image [AI] feature uses artificial intelligence to analyze an image or logo's colors and create a color palette that complements it. This feature is particularly helpful for branding projects or when you need to match colors from an existing design.
+Paletto's Palette from Image [AI] feature uses artificial intelligence to analyze an image or logo's colors and create a color palette that complements it.
 
-![Color Palette from Color AI](/assets/7.png)
+![Color Palette Generator](./public/assets/7.png)
 
 ### ⭐ Color Palette from Color [AI]:
-Paletto's Color Palette from Color [AI] feature generates a color palette from a single color. Just specify your desired color, and Paletto will generate the best color palette for you. This feature is ideal when you have a specific color in mind and want to create a palette around it.
+Paletto's Color Palette from Color [AI] feature generates a color palette from a single color.
 
-![What Color Says](/assets/8.png)
+![What Color Says](./public/assets/8.png)
 
 ### ⭐ What Color Says!:
-Paletto's What Color Says! feature explains the psychology of color and how different colors can impact emotions and behavior. It assists you in comprehending the importance of a color and choosing the perfect color to resonate with your intended audience.
+Paletto's What Color Says! feature explains the psychology of color and how different colors can impact emotions and behavior.
 
 ## Our Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsundriya)
