@@ -1,7 +1,6 @@
 <div align="center">
  <h1> <img src="./public/logo.png" width="80px"><br/>Paletto : Color Palette & Design Tool</h1>
  <a href="https://www.buymeacoffee.com/nikhilsundriya" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
- <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fpaletto.itsvg.in/"/> 
  <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=normal"/>
  <img src="https://img.shields.io/github/languages/code-size/nikhilsundriya/Paletto?logo=github&style=normal"/>
