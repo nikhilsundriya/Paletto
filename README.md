@@ -49,8 +49,6 @@ Paletto's What Color Says! feature explains the psychology of color and how diff
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/nikhil_sundriya)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=normal&logo=Instagram&logoColor=white)](https://instagram.com/nikhil_choudhary25)
 
-## PageSpeed Insights
-![](https://raw.githubusercontent.com/nikhilsundriya/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 ## Tech Used
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
