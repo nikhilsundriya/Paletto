@@ -14,35 +14,35 @@
 # Features
 Design heavily relies on color, and selecting an ideal color palette can be overwhelming. Fortunately, Paletto provides a set of fantastic tools that let you unleash your creativity and bring your designs to life. Paletto's distinguishing features include:
 
-![Trending Palettes](./public/assets/2.png)
-
 ### ⭐ Trending Color Palettes:
 Paletto's Trending Color Palettes feature keeps you up-to-date with the latest color trends. It helps you choose the most popular colors for your project, whether you're designing a website, marketing campaign, or product. Additionally, you can tailor the palettes to your preferences using Paletto's user-friendly interface.
 
-![Awesome Gradients](./public/assets/3.png)
+![Trending Palettes](./public/assets/2.png)
 
 ### ⭐ Awesome Gradients:
 With Paletto's Awesome Gradients feature, you can effortlessly produce countless gradients. Gradients enhance the depth and texture of designs, making them more visually appealing. You can experiment with multiple color combinations and develop gradients that match your design requirements.
 
-![Tailwind Palette Generator](./public/assets/5.png)
+![Awesome Gradients](./public/assets/3.png)
 
 ### ⭐Tailwind Palette Generator:
 Paletto's Tailwind Palette Generator feature is custom-made for Tailwind CSS developers. By clicking once, you can create color palettes for your next Tailwind-powered project. This feature saves you time and effort when choosing colors that align with Tailwind's design system.
 
-![Palette from Image AI](./public/assets/6.png)
+![Tailwind Palette Generator](./public/assets/8.png)
 
 ### ⭐ Palette from Image [AI]:
 Paletto's Palette from Image [AI] feature uses artificial intelligence to analyze an image or logo's colors and create a color palette that complements it.
 
-![Color Palette Generator](./public/assets/7.png)
+![Palette from Image](./public/assets/5.png)
 
 ### ⭐ Color Palette from Color [AI]:
 Paletto's Color Palette from Color [AI] feature generates a color palette from a single color.
 
-![What Color Says](./public/assets/8.png)
+![Color Palette from Color](./public/assets/6.png)
 
 ### ⭐ What Color Says!:
 Paletto's What Color Says! feature explains the psychology of color and how different colors can impact emotions and behavior.
+
+![What Color Says!](./public/assets/7.png)
 
 ## Our Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsundriya)
