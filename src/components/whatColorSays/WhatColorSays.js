@@ -2,7 +2,6 @@ import codeCopier from "@/utils/codeCopier";
 import React from "react";
 import { DashCircleFill, PlusCircleFill } from "react-bootstrap-icons";
 import ShadeGenerator from "shade-generator";
-
 export default function WhatColorSays({ hex, name, pos, neg }) {
   return (
     <div className="w-72 rounded-xl overflow-hidden">
